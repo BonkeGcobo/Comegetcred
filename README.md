@@ -5,6 +5,16 @@
 - The Page is responsive
 - Clicking in each item, we get more info about the data entry
 
+
+## Files Created for project in src director
+
+ ### CallMoviesApi.js
+  - Contains a function that fetches the API
+  
+ ### ListOfMovies.js
+  - We lay out of movies are created
+ 
+
 ## Available Scripts
 
 In the project directory, you can run:
