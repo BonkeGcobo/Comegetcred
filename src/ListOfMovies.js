@@ -8,7 +8,6 @@ const Movies = () => {
   const [selectedMovie, setSelectedMovie] = useState(null);
 
   const handleOpenModal = (movie) => {
-    console.log(movie);
     setSelectedMovie(movie);
   };
 

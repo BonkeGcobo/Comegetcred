@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+## Check List of Things completed for Comegetcred Test
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- 3*3 layout of data created
+- Data is called from the tv_maze API link `https://api.tvmaze.com/shows`
+- The Page is responsive
+- Clicking in each item, we get more info about the data entry
 
 ## Available Scripts
 
